@@ -3,7 +3,7 @@ System Preferences (no secrets)
 
 ## LICENSE
 
-LICENSE for (most of the files) are MIT.
+LICENSE for (most of the files) is MIT.
 
 For those files where other licences applies,
 either a LICENSE file is present in the same folder (applied to subfolders too),
