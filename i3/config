@@ -116,6 +116,8 @@ mode "resize" {
 
 bindsym $mod+r mode "resize"
 
+bindsym $mod+x move workspace to output right
+
 bar {
         status_command i3status
 }
